@@ -1,0 +1,37 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  width:99.2vw;
+}
+
+.top-center {
+  position: absolute;
+  top: 3%;
+  bottom: 3%;
+  left: 1.5%;
+  right: 1.5%;
+  background-color: white;
+  width: 97%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+}
+
+.first-row {
+  flex: 1;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.remaining-rows {
+  flex: 5;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

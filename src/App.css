@@ -1,0 +1,13 @@
+.rightScreenWrap{
+    background-image: url('./assets/black_white_pattern_cropped.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 710px;
+}
+
+.leftScreenWrap{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    height: 710px;
+}

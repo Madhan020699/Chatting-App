@@ -1,0 +1,43 @@
+.loginForm{
+    width : 60%;
+    color:black;
+    font-weight: 700;
+}
+
+.submitBtnWrap{
+    width: 100%;
+}
+
+.forgetPassWrap{
+    display: flex;
+    font-size: small;
+}
+
+.signUpWrap {
+    font-size: small;
+    display: flex;
+}
+
+.signUpWrap span{
+    font-weight: lighter;
+}
+
+.signUpWrap a{
+    margin-left: 5px;
+}
+
+.headingWrap{
+    font-size : x-large !important;
+}
+
+.SiteNameWrap{
+    font-size: xxx-large;
+    display: flex;
+    align-items: center; 
+    justify-content: space-evenly;
+}
+
+.appLogoWrap{
+    width: 25%;
+    border-radius: 75%;
+}

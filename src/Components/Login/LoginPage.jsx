@@ -5,9 +5,9 @@ const LoginPage = () => {
     return (
         <Container fluid>
             <Row>
-                <Col md={6} className="rightScreenWrap">
+                <Col md={6} className="rightScreenWrap vh-100">
                 </Col>
-                <Col md={6} className="leftScreenWrap">
+                <Col md={6} className="leftScreenWrap vh-100">
                     <Form />
                 </Col>
             </Row>

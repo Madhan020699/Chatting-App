@@ -7,6 +7,7 @@ function App() {
     return (
 
         <Container fluid className="app-container">
+
             <ChatViewLayout />
             <Row className="first-row">
                 <Col xs={12}>

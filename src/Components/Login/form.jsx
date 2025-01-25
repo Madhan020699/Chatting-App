@@ -6,7 +6,9 @@ import Form from 'react-bootstrap/Form';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import './form.css';
-import chatLoGo from "../../assets/Chat_Logo.webp";
+
+import chatLoGo from "../../assets/Chat_LoGo.webp";
+
 
 const FormContainer = () => {
 

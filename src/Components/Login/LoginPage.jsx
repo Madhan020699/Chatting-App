@@ -2,7 +2,6 @@ import {Col,Container,Row} from "react-bootstrap";
 import Form from './form.jsx';
 
 const LoginPage = () => {
-
     return (
         <Container fluid>
             <Row>
@@ -14,7 +13,6 @@ const LoginPage = () => {
             </Row>
         </Container>
     );
-
 }
 
 export default LoginPage;
